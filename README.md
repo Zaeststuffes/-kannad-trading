@@ -1,2 +1,1 @@
-# -kannad-trading
-“Kannad Trading Co. export site – Java backend, responsive front-end.
+# Kannad Trading Co. – Full Spring Boot Project
